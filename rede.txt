@@ -261,3 +261,59 @@ Chico: Estão a falar do deputado? Venham cá que eu vou vos contar do deputado.
 Cena Sexta
 ----------
 [1225s]
+
+Entra o deputado
+
+Deputado: Bea! Bea! Xi, nem o Casula, nem a Bea! Essa casa ... agora! Oh Bea! Bea!
+(entra Bea)
+Bea: Amor?
+Deputado: Eu estava aqui a gritar, não me estavas a ouvir?
+Bea: Estavas a gritar porque és maluco. Essa casa é tua. Precisas de gritar?
+Deputado: Olha, Bea...
+Bea: Olha, Bea, o quê?
+Deputado: Deixa-me lá conversar uma coisa...
+Bea: Eu já me tinha esquecido que você existe. Você passa muito tempo lá fora.
+Deputado: Mas tu achas que eu estou a fazer o quê lá fora? Que estou a brincar?
+Bea: Ai é?
+Deputado: Estou a trabalhar.
+Bea: Ai é?
+Deputado: Claro.
+Bea: Ai é? Tens a certeza que estás a trabalhar mesmo?
+Deputado: Isso não me devias perguntar a mim.
+Bea: Ai é?
+Deputado: Pergunta ao povo. Pergunta ao povo se eu não estou a trabalhar. Bea, eu trabalho para o povo, entendes? Eu sou a voz do povo. Ia estar a fazer o quê?
+Bea: Se você é a voz do povo, então qual é o meu povo também?
+Deputado: Ah Bea, você não sabe qual é o seu povo?
+Bea: Ai é?
+Deputado: Os teus filhos são o teu povo!
+Bea: Ai é, os meus filhos são o meu povo.
+Deputado: Claro.
+Bea: Você é maluco. Diz que é deputado, mas é um deputado maluco.
+Deputado: Olha Bea...
+Bea: Não "Olha Bea" não!
+Deputado: Não me confundas com outros deputados.
+Bea: Qual é a diferença que existe entre você e os outros deputados?
+Deputado: Eu sou muito diferente.
+Bea: Ai é?
+Deputado: Você assiste o parlamento?
+Bea: Não.
+Deputado: Eu posso perguntar ao povo e o povo responde. Assistem ao parlamento? Quando vocês assistem e reparam bem, qual é o deputado mais bonito? Não sou eu? [Sim] Não sou eu?
+Bea: Ai é?
+Deputado: Eu sou o deputado mais bonito.
+Bea: Diz que é mais bonito, mas passa o tempo todo em casa da sua segunda esposa. Você vem aqui uma vez por mês. Enquanto em casa da sua segunda esposa, você está lá todos os dias.
+Deputado: Olha Bea...
+Bea: Eu já nunca vejo você
+Deputado: Bea, Bea
+Bea: Bea, Bea não.
+Deputado: Olha lá, deixa-te de cíumes. Já não és uma criança. Quando nós namoravamos, uma pessoa podia ter cíume. Mas agora, deixa-te de cíumes. És criança, tu?
+Bea: Ai é? Ai é? Tens a certeza?
+Deputado: Tenho a certeza de quê?
+Bea: Que não tenho de ter cíume?
+Deputado: Mas de quê? Eu não fico aqui contigo uma vez por mês? Eu não durmo contigo uma vez por mês?
+Bea: Mas que tipo de mulher é que vai aceitar isso? Você comigo dorme uma vez por mês.
+Deputado: Não é muito?
+Bea: Que tipo de mulher é que vai aceitar isso?
+Deputado: Não é muito?
+
+
+
