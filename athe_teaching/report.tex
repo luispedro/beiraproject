@@ -1,0 +1,677 @@
+\documentclass[article,twocolumn,twoside]{memoir}
+\usepackage[utf8]{inputenc}
+\usepackage{psfrag}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage[]{graphicx}
+
+\graphicspath{{../figures/other/}{../figures/generated/}}
+
+
+\title{Theatre for Development: Theatre Classes in Rural Mozambique}
+\author{Rita Reis and Luis Pedro Coelho}
+
+\bibliographystyle{alpha}
+%\bibliographystyle{plain}
+\pagestyle{Ruled}
+
+\aliaspagestyle{chapter}{Ruled}
+\makeatletter
+\if@twoside
+	\makeoddhead{Ruled}{}{}{\scshape\rightmark}
+	\makeevenhead{Ruled}{\scshape\leftmark}{}{}
+	\makeevenfoot{Ruled}{\pagenumberfont\thepage}{}{}
+	\makeoddfoot{Ruled}{}{}{\pagenumberfont\thepage}
+	% Put section number on top
+	\def\sectionmark#1{\markright{#1 (\thesection)}}
+	\def\chaptermark#1{\markboth{#1}{#1}}
+	\renewcommand*{\bibmark}{\markboth{\bibname}{\bibname}} % I don't like empty headings!
+\else
+
+	% Put section number on top
+	\def\sectionmark#1{\markright{#1 (\thesection)}}
+	\def\chaptermark#1{\markright{#1 (\thechapter)}}
+
+	\makeoddhead{Ruled}{}{}{\scshape\rightmark}
+	\makeevenhead{Ruled}{}{}{\scshape\rightmark}
+	\makeevenfoot{Ruled}{}{}{\pagenumberfont\thepage}
+	\makeoddfoot{Ruled}{}{}{\pagenumberfont\thepage}
+	\renewcommand*{\bibmark}{\markright{\bibname}} % I don't like empty headings!
+
+
+\fi
+\makeatother
+
+%Change fonts: Page number sans-serif (much cleaner than the roman version)
+\def\pagenumberfont{\sffamily}
+% Change fonts: Section headers Sans-Serif:
+\setsecheadstyle{\Large\sffamily\raggedright}
+\setsubsecheadstyle{\large\sffamily\raggedright}
+\setsubsubsecheadstyle{\normalsize\sffamily\raggedright}
+
+% Title
+\pretitle{\LARGE\sffamily}
+\posttitle{\par\vspace{4ex}}
+\preauthor{\large\sffamily\hspace{1cm}}
+\postauthor{\par\vspace{3ex}}
+\predate{\small\sffamily\hspace{1cm}Last Updated on: }
+\postdate{\par\vspace{2cm}}
+\copypagestyle{title}{plain}
+\makeoddfoot{title}{}{}{}
+\makeevenfoot{title}{}{}{}
+
+\renewcommand{\abstractnamefont}{\sffamily}
+\renewcommand{\abstracttextfont}{}
+\renewcommand{\absnamepos}{flushleft}
+
+
+\makechapterstyle{mestrado}{% Originally ``AlexanderGrebenkov'', adapted
+\renewcommand{\chapterheadstart}{\goodbreak\vspace*{\beforechapskip}}
+\renewcommand{\chapnamefont}{\normalfont\Large\scshape}
+\renewcommand{\chapnumfont}{\normalfont\Large\scshape}
+\renewcommand{\chaptitlefont}{\normalfont\Large\scshape}
+\renewcommand{\printchaptername}{}
+\renewcommand{\chapternamenum}{}
+\renewcommand{\printchapternum}{\normalfont\Large\scshape\S\thechapter}
+\renewcommand{\afterchapternum}{\hspace{1em}}
+\renewcommand{\afterchaptertitle}{\par\nobreak\vspace{-.9em}\moveright 6pt\vbox to 1pt{\hrule width .32\textwidth}\nobreak\vskip\afterchapskip\nobreak}
+}
+\chapterstyle{mestrado}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+In June and July 2010, Rita Reis and Luis Pedro Coelho, traveled to Mozambique
+and taught theatre classes to high school students in four rural schools. Each
+workshop was a week-long affair, with students working 1h30 per day.
+
+Most of the students involved were already participating in school theatre
+groups, which in the Mozambican context is closely linked to working as
+volunteers for different organisations to spread information on topics such as
+HIV/AIDS, other STDs, or education.
+
+The classes were a mix of warm-up exercises for students (some of which formed
+a core, repeated almost every day), text work, and improv work. In some cases,
+there was interest in developing English language skills and some of the work
+was done in English (some schools had English language theatre groups already,
+organised by the Peace Corps\footnote{Peace Corps is a volunteering programme
+of the American government.} volunteers).
+
+The programme described here is the result of an evolution throughout our stay,
+as we had the opportunity to work in different schools, with two groups each
+time. We were able to modify the presentation and exercises themselves as we
+perceive them to be more or less successful (there were, of course, other
+modifications that were made in response to the specificity of each group). We
+describe our experience here in the hope that it will be useful to someone else
+in the future.
+
+\end{abstract}
+
+\chapter{Introduction}
+In June and July 2010, we taught theatre classes to high school students in
+four rural schools in Mozambique. These were run by EsMaBaMa, a non-profit
+Catholic organisation and are located in Estaquinha, Mangunde, Baranda, and
+Machanga (hence the name, EsMaBaMa), all in the Sofala province of Mozambique.
+
+All of the schools already had some theatre structures. Sometimes these were
+run by the Peace Corps volunteers and performed in English in order to get the
+students to practice that language.
+
+We taught a one-week workshop in each mission, everytime having a morning and
+an afternoon group (some of the students have morning class and others
+afternoon classes, so they would attend our workshop when they were not in
+class). In Estaquinha, at the request of the students and the school director,
+the students prepared a small presentation at the end.
+
+Our course had several goals: to support the existing theatre structures by
+teaching them basic exercises they could continue using, to help support
+Portuguese class by reiterating to the students some of the grammatical and
+rhetorical concepts they learned, in some cases, to have the students practice
+their English, and, finally, to make it fun for the students.
+
+The programme that we followed evolved throughout our stay as we observed and
+reflected on the results of the previous experiments. We present the programme
+as it resulted from our experience, but we comment on the evolution of it
+below.
+
+\chapter{Workshop Structure}
+
+\section{Core}
+
+We decided to have a small set of \textit{core} exercises that we repeated
+everyday, so that they would be remembered after we left. Other exercises were
+used only once or as-needed. This was a mix of warm-up and group concentration
+exercises.
+
+\subsection{Spinal Awakening}
+\subsection{Spinal Twists}
+\subsection{Zoo-Aw-Sha}
+\subsection{Boom Sha Boom}
+
+This is a group song and rhythmic routine, performed in a circle. The basic
+movement is to (1) clap your hands on your thighs, (2) clap them, (3) clap with
+your neighbours to each side, and (4) clap; resulting in a four-tempo beat.
+Originally, the words were ``Yu-gos-la-via, boom-sha-boom \textit{clap},
+Che-kos-lo-vaquia, boom-sha-boom \textit{clap}'' followed by ``We've got the
+rhythm in our hands'' (with clapping of hands), our feet (with stomping), our
+hips (jiggling the hips to ``hu-hu-hu'') and eyes (moving your hands from yours
+eyes to the centre of the group, followed by the whole body to ``uuu-huuu'')
+
+Instead of defunct European countries, we used the name of the school,
+\textit{Ma-chan-ga}, \textit{Es-ta-qui-nha}, \textit{Ba-ra-da}, or
+\textit{Man-gun-de} followed by \textit{So-fa-la} or \textit{Mo-zam-bi-que}.
+The main text ``We've got the rhythm in our hands|feet|hips|eyes'' was
+sometimes translated into Portuguese,\footnote{Temos o ritmo nas
+mãos|pés|ancas|olhos.} sometimes not, depending on the general level of the
+students.
+
+\begin{verse}
+Ma-chan-ga, boom-sha-boom\\
+Mo-zam-bi-que, boom-sha-boom\\
+temos-o-rit-mo-nas-mãos/pés/ancas/olhos.
+\end{verse}
+
+
+\subsection{Oy, steady, take-it}
+In a circle, there are three ways in which energy can circulate: (1)
+\textit{Oy} passes it to the person next to you, (2) \textit{steady} passes it
+across the circle to someone else, and (3) \textit{take-it} gives it back to
+whom it came from. The participants should use these words and corresponding
+hand-gestures. The goals of the exercise is to have group concentration and eye
+contact between the partners.
+
+This was adapted into Portuguese, as \textit{oi, toma, espelho} (roughly,
+\textit{Oy, have it, mirror}). An early attempt at using the English version
+led to much confusion on part of the students. We introduced the game
+gradually, starting with \textit{Oy}, then \textit{toma}, and finally
+\textit{espelho}.
+
+\subsection{Balance of the Space}
+
+Using the image of a plank balanced on a pole below the centre of the room, the
+students attempt to distribute themselves evenly across the space, while also
+following the pace and movements of the leader. Initially the leader is the
+instructor who occasionally stops, speeds up or slows down, or sits.
+Eventually, some of the students can lead or other movements can be introduced.
+
+The students should keep their gaze high and face forward. This is to train the
+actor to be aware of the whole of his surroundings even when facing forward.
+
+This is an exercise that the students get quickly and enjoy. When they play the
+leader, they would (as the instructors did) stop, causing everyone to stop, and
+then comment on the distribution of everyone else (only the leader should
+speak, everyone else should keep quiet).
+
+\section{Improvs}
+
+In some groups, improvs were in English (including at the request of the
+students), sometimes it was in mixed language, sometimes we allowed them to use
+an invented gibberish if they wished (but forbade Portuguese and
+Ndau\footnote{Ndau is the local language. Actually, if the students chose to
+speak Ndau, they would have been able to get away with it as neither of us
+understood it.}). The students might not have always stuck to the rules, but
+they did practice their English skills and some were much more fluent on stage
+than when they were talking to the instructor.
+
+Group improv settings were ``chapa'', health care centre, market, and party.
+
+In Mozambique, a ``chapa'' is a 15-person minivan which serves as public
+transportation carrying up to 20 passenger crammed into its seats. It is used
+both in the city\footnote{In the city, the chapas are actually a very
+convenient way to get around as the frequency is very high.} and inter-city.
+The ticket collector, who also calls out for passengers whenever the chapa
+stops (chapas stop on any intersection as long as someone inside or outside
+calls out, but there are semi-established stops), served as the leader in this
+improv. The stage started with him alone on stage and he would call out to the
+rest of the group to join him. When we had assembled a sufficient number of
+passengers, he'd call out for a driver (this mimics the behaviour of actual
+chapas at terminal points when the driver might step out for a little break as
+the ticket-collector gathers new passengers). Other characters include
+salespersons, traffic police (who, this being Mozambique, were willing for a
+bribe), the beggar, chapa owner, and, in one inspired scene, the man ran over
+by the chapa. We describe it here at length as it was invariably successful in
+terms of both including everyone, being fun, and generating interesting scenes
+for the instructors watching. Therefore, we used it as the first improv.
+
+The health care centre feature doctors, patients, receptionists, pharmacists,
+and a helper. They were a mixed success. The market is a good improv for
+continued action, but it runs the risk of boredom if many of the students just
+come in, buy their bananas, and leave. The party improv was mostly interesting
+for us as it revealed many of the typical teenage flirtation modes of
+Mozambican teens (see discussion below, under \emph{Challenges}).
+
+\section{Commedia Dell'Arte}
+
+The traditional \textit{commedia dell'arte} form, which we will refer to as
+simply \textit{commedia}, gave us many characters that are physically
+well-defined and expansive.
+
+We worked with \textit{commedia} in two ways. First, we worked on the characters
+with all students, in a circle or walking in the space. We had a few
+characteristic sentences and movements that students were to repeat altogether.
+
+We started by introducing the shapes and wants of some characters Pantalone,
+Dottore, Pedrolino, Capitano and Signora. And when the students had the
+characters in their bodies we started to work in improvisations. In particular,
+the \textit{capitano} meets the \textit{signora}, she attempting to get her to
+marry her\footnote{or have unprotected sex with her, in one of our
+adaptations.}, he attempting to get a meal while pretending to be
+rich.\footnote{In this improv, the \textit{capitano} lost his fortune, but
+refuses to admit it. Therefore, he must be boastful while relying on gifts.
+The \textit{signora} is an older lady with some money who is desperate for
+marriage.} This improvisation was always very successful. The students seemed
+to particularly connect with the wants and shapes of those two characters.
+Capitano wanted food and money, Signora love and sex. They are both extremely
+vain and their shapes are big and sexual. All those characteristics were a
+particularly interesting cocktail that captivated the young Mozambican
+students. 
+ 
+The theatre in Mozambique is often improvised, very physical and using big
+character types, such the spoiled little girl or the older greedy man. With
+this introduction to \textit{commedia}, the students can diversify, and
+physically develop their palet of characters. We hope that the students will be
+able to use \textit{commedia} characters (or, at least,
+\textit{commedia}-inspired characters) in their further work.
+
+\section{Group Text Work}
+
+In order to help the students first memorise their texts and then understand
+and interpret them, we led a series of exercises that could be performed
+together by the group.
+
+\subsection{Physicalise Verbs, Adjectives, or Important Words}
+
+In a circle, each student will look for one verb and physicalise the
+corresponding action. All of the other students will then imitate. We also
+asked them to physicalise adjectives as a statue. Finally, we asked for
+important keywords of the text which were physicalised.
+
+\section{Individual Text Work: Poetry}
+
+A large part of our workshop was dedicated to this work of finding a form with
+which to communicate the poem. We gave the students poems that we chose from
+the work of Mia Couto and José Craveirinha, two reputed Mozambican authors. We
+also gave the students the opportunity to bring their own poems if they so
+chose. In every group, there were some who did, both poems they knew from
+someone else or poems they had written themselves.
+
+We also used to poems as a basis for reviewing figures of speech and then
+asking students to identify some in their texts.
+
+Some of the exercises that were done as a group, can be repeated individually.
+For example, physicaling verbs and adjectives can help the students find
+appropriate action for their texts.
+
+\subsection{Say it to a Partner}
+
+Say the text to a partner on stage. This can be done in several variations:
+face to face standing or sitting down, holding hands (this also helps to
+contain small unmotivated hand gestures). The students can be close or far apart.
+
+Another variation is to say the text, back-to-back with a partner.
+
+\subsection{Push the Wall}
+
+Push against the wall, exerting force. This can be done with the student
+leaning against one wall or running from one wall to the opposite wall using
+hands and arms to propel the body.
+
+\subsection{Come Running from the River}
+
+We asked the student to either run circling the room or to actually leave the
+room, walk or run to a nearby and tree, then run back, barge in an say the poem
+as if they had ran all the way from the river with this important message. This
+should stimulate their feelings of urgency.
+
+\section{Other Exercises}
+\subsection{Object Transformation}
+An object (such as a pencil-case) was passed around and pupils were asked to
+make it as if it was something else (e.g., a mirror, a shoe,\dots). In some of
+the classes, the remaining students would call out loud the name of the object
+in English. This thus served as an exercise that developed vocabulary, imagination,
+and the ability to play in the moment.
+
+\subsection{Voice and Movement Creatures}
+\subsection{Circling Clap}
+In a circle, student one and student two clap their hands simultaneously,
+then student two and student three, and so forth. If the students clap twice,
+then there is a direction change.
+
+\chapter{Daily Schedule}
+
+We didn't follow a strict schedule and the work varied both as our ideas
+evolved and as we adapted it to each group. We document here one possible
+structure as a reference.
+
+\section{Day I}
+The first day is an introduction. We wish to introduce both some of the core
+exercises and have the students get a feel for some of the work methods. We
+also attempted to make it a fun day in order to keep the students interested.
+Thus, we rewarded the students with an improv at the end of the first session.
+
+\begin{itemize}
+\item Warm-up
+\item Oi, toma, espelho,
+\item Boom-sha-boom,
+\item Circling clap,
+\item Object transformation,
+\item Imitate thy neighbour,
+\item Physicalise your name or your name and verb,
+\item Objective: chair,
+\item Improv: chapa.
+\end{itemize}
+\section{Day II}
+
+We repeat some of the core exercises. We introduce the poems for the first
+time. Students who did not bring a poem of their own, the majority, got a
+randomly chosen one from us.
+
+\begin{itemize}
+\item Oi, toma, espelho,
+\item Boom-sha-boom,
+\item Circling clap,
+\item Physicalise verbs,
+\item Poem distribution,
+\item Read poem whispering, soto voce, aloud; stopped or walking,
+\item Back-to-back, single out important words,
+\item Machines,
+\item Balance of the space.
+\end{itemize}
+\section{Day III}
+In this session, after the warm-up, we do some \textit{commedia} characters in
+the circle or moving around the room, with everyone moving together. We use
+those characters for some \textit{commedia} improv work. At the end of the
+session, we start some individual text work with those students who feel they
+have memorised their texts. Finally, to end the class on a fun note which
+brings everyone together after individual work, we do boom-sha-boom.
+
+\begin{itemize}
+\item Oi, toma, espelho,
+\item circling clap,
+\item spinal awakening,
+\item \textit{commedia} characters, in a circle,
+\item \textit{commedia} improvs,
+\item individual text work,
+\item Boom-sha-boom.
+\end{itemize}
+\section{Day IV}
+
+We continue with the themes from the previous day. We go over figures of speech
+concepts and ask the students to identify some in their texts in a group. We
+end with individual text work. By now, we expect of the students that they all
+know their texts (which was, of course, not always the case).
+
+\begin{itemize}
+\item Circling clap,
+\item spinal awakening with partner,
+\item balance of the space with text,
+\item figures of speech analysis,
+\item \textit{comedia} characters,
+\item physicalise sentence from text, in a circle,
+\item individual text work.
+\end{itemize}
+\section{Day V}
+
+This day is mostly dedicated to individual work with students presenting poems.
+We tried to make sure that everybody had a chance to go at least once, while
+some students went more than once.
+
+\begin{itemize}
+\item Circling clap,
+\item spinal twists,
+\item zoo-aw-sha,
+\item balance of the space with different leaders,
+\item improv: sustained actions in pairs, then interaction,
+\item individual text work.
+\end{itemize}
+
+\chapter{Challenges}
+\section{Language}
+
+Mozambique is home to many languages. In the region of Sofala where we were
+working, Ndau is the most common language (Sena is also spoken in Sofala).
+Portuguese is the official language of the country, but, particularly in the
+country-side, some students only encounter it when they reach school age. In
+the city, Portuguese is current, and sometimes a first language. Given that
+some of our students came from the country side, others from the city, and from
+different background, their language skills varied widely and some students
+struggled with vocabulary.
+
+\section{Structured Work}
+
+Given the voluntary nature of the work and Mozambican attitudes, students were
+often late. We attempted to always book a two hour slot, but keep the session
+to exactly ninety minutes from the moment we actually started. We informed the
+students of this fact. It was very helpful if one of their teachers was
+present, but this was not always possible. We decided to start when we felt we
+had enough of a critical mass to avoid waiting too long or not being able to
+end on time, but this meant that there were students trickling in for a long
+time.
+
+Similarly, it often happened that a student would wish to join the group
+half-way or even at the last session. We enjoyed the appreciation that this
+represented (as opposed to the more typical waning of enthusiasm and
+attendance, in some cases, total attendance went up) and we tried to always
+accommodate them, but it sometimes slowed progress.
+
+\section{Women's Position in Mozambican Society}
+
+Mozambican society is highly patriarchal. This shows up both in the content
+of the work (see below), but also in the way that women worked. In some groups,
+there were very charismatic, talented female students, of course; but, on
+average, the female students tended to be less self-confident and come forward
+less.
+
+In one occasion, a female student volunteered to play ticket-collector in the
+``chapa'' improv, to which some of the male students reacted negatively saying
+that a ``woman cannot be ticket-collector.'' This discouraged the girl and even
+after we said that she could play the role, she was no longer interested.
+
+In general, female students, perhaps internalising these relationships were
+less forthcoming than male students when we asked for volunteers or for someone
+who was ready to present their work. All we could do was to then insist on
+having female volunteers as well as male one.
+
+\section{Mozambican Societal Issues}
+
+Mozambican society had many problems which showed up again and again the
+improvisation work. To some extent, this is the result of the role that theatre
+plays in Mozambican society, very often focused on social issues; but it is
+also a reflection of a society with many grave problems.
+
+The corrupt traffic policeman was a staple of the chapa improv. In some cases,
+he would ask for money directly; other times, the driver would offer it. We
+sometimes suggested that a policeman would show up, but we never suggested he
+would be corrupt---that the students introduced themselves. In fact, a traffic
+policeman asking for documents is generally assumed to be looking for
+bribes.\footnote{In one occasion, while in the city, the chapa we were riding
+was pulled over by a policeman asking for documents. We watched, with interest,
+having seen this scene played out by the students in improv. Sure enough, the
+policeman kept the driver's license, the ticket-collector got out a few yards
+further, and ran back to get the documents (certainly, not for free). Even if
+anecdotally, we can report that traffic policeman do look for bribes in
+Mozambique.}
+
+The women's position and relationship to sexuality and money was also
+repeatedly portrayed as one of business. In the ``party'' improvisation,
+seduction was often around the direct statement of ``I'm rich, I can buy you
+presents'' (or conversely, the female refusal was of the form ``I'm not
+interested. I already have a boyfriend and he's rich.'').\footnote{Another
+interesting exchange took place in a 3-person improv we directed in another
+context. The male element in a couple tries to bribe a policeman with a small
+bill, saying ``it's all the money I have;'' to which the policeman replies by
+turning to the girl and asking ``how can you date a guy who has no money? He
+just tried to give me a ridiculous bribe!''} This pattern showed up even when
+we asked the students to play switched genders. In another case, a woman was
+prostituted in the market with one of the male students playing an intermediary
+who promised to take a small cut, but then took all of the money for himself.
+These are all issues that are present in Mozambican society, with many
+relationships between men and women straddling the line between gift offering
+and outright prostitution
+
+HIV/AIDS was present too. Not only where it was obvious (health care centre),
+but everywhere a condom salesman would show up, for example, and one ``market''
+improv included one thorough explanation of how to use a condom.\footnote{In
+this case, we actually appropriated this scene and re-fashioned it for the
+``chapa'' improv, where the salesman would approach the bus as it stopped. This
+was part of the presentation shown to the school.} The students were all
+very knowledgeable of the issues and, in a way that in the West would be very
+surprising for their age, able to discuss it in front of others in a completely
+matter-of-fact way. One improv, which we set up as ``sexual education class''
+was reminiscent of that Monty Python sketch where the teacher, played by John
+Cleese, explains sex to a bored teenage audience who is as thoroughly
+uninterested as they would be in lessons in Ancient Greek. In our case, the
+students simply answered the teacher's questions as good students would answer
+questions on History or some other subject. There was little tension in this
+improv, dramatic or otherwise, and we did not use it again.
+
+Sometimes the students reacted against an overly negative portrayal of
+Mozambique with the argument that they shouldn't only show the problems in
+society but also that there are good things too. This led us to explore
+alternative choices with the characters. In Estaquinha, we played a repeated
+scene in which three friends meet after taking an HIV-test. One of them is
+positive and is alternatively rejected by his ignorant friends (``that's why
+you have those pimples! Even those ripped trousers are part of the disease! I
+can't talk to you! We'll get contaminated.'') or embraced and correctly
+counselled by them (``Don't look that discouraged! You'll outlive us all! Just
+take your medication. And we'll still be your friends, come, let's have a
+drink!''). These two scenes were worked into two improvs that were presented to
+the school one after the other.
+
+\chapter{Assets}
+As well as a unique set of challenges, Mozambican students had many assets when
+compared to Western students of the same age.
+
+Theatre and poetry are an important part of Mozambican culture. We were
+fortunate to be present for the celebration of Independence Day (June 25). The
+celebration in Machanga (a very small town) consisted of speeches, live and
+recorded music, and several poetry readings.
+
+Many of our students were \textit{activistas} in various youth groups. While in
+European Portuguese the word \textit{activista} has the same connotation as the
+English word \textit{activist}, in Mozambique, the expression has wider usage
+to denote organised volunteering. In fact, there is widespread youth social
+participation in organised groups such as \textit{JOMA}, Youth for Change and
+Action,\footnote{\textit{Jovens Para Mudança e Acção}, in Portuguese.} which
+organises around HIV related issues and was present in every school we visited.
+Participation in these groups is taken seriously and is a source of pride for
+the \textit{activistas}. This seemed to us to be a feature of Mozambican
+society and not only for younger students---older people also took pride in
+participating in civil society activities.
+
+There is also a national competition on English language theatre for high
+school students, which is further motivation that students have for
+participating in theatre groups. Therefore, our work was shaped to serve these
+existing structures in their activities rather than to build up new structures.
+The teachers who organise these groups were also invariably enthusiastic and an
+indispensable help in handling logistic details and interfacing with the
+students and school.
+
+At each location, there was always an enthusiastic core of students who
+participated and were committed. They took responsibility for the rest of the
+group and were often naturally in the role of serving as an interface between
+us, the other students, and the school---which was invaluable when their
+teacher could not be present and we did not know whom else to approach for some
+practical issue.
+
+On stage, the students were freer with their bodily expression and less
+self-conscious than we feel Western students of the same age and theatrical
+experience are. They had less social inhibitions to moving freely with their
+whole bodies. We also remarked that the male students were not afraid to play
+female or effeminate characters.
+
+As a counterpart to the lack of rigour in preparation, the students are
+very capable of improvising both in class and in front of the
+audience.\footnote{In Estaquinha, when we presented in front of an audience, we
+were both laughing at the new jokes that the students came up with on the
+spot.} They also did not feel stumped by a lack of rigorous preparation before
+presenting (which, due to time constraints, we did not have).
+
+The theatre groups run by the students generally work with ``prepared
+improvs.'' A scene will start out as an improvisation based on some general
+theme or set of characters, they will pick the best lines, rehearse it a few
+times (but not more), until the general lines of action and dialogue become
+clear, and then present. Still, even when presenting, the text is not
+completely set, and is never written down anywhere. Therefore, they have
+experience and an intuitive understanding of this type of work and it was
+generally very good.
+
+\chapter{Evolution}
+
+The programme changed as we gained experience and we have, so far, mostly
+described our final ideas. Some exercises were found to work better than others
+and our thinking changed. We narrowed down on a smaller set of exercises than
+we started with under the reasoning that it was best to repeat the same
+exercise several times so that the existing theatre groups could keep a memory
+of that exercise and use it in the future.
+
+In the first round of classes, we started off by the typical introductory
+exercises of having everyone present themselves and tell us some tidbit about
+themselves, such as why they enjoy theatre or an interesting fact about their
+name. Mozambican students are less often asked to talk about themselves in the
+first person and some were not very comfortable. Furthermore, we felt that
+given the time constraints, we should do a faster introduction. Therefore, we
+resorted to fast introductions plus some games where the students use their
+names (for example, in a circle, physicalise a verb starting with the same
+letter as your name while saying a sentence such as ``My name is Rita and I
+like to row,'' then everyone imitates).
+
+We found that the students loved doing improv work and were immediately
+good at it. Therefore, we moved it to the first session in order to keep them
+motivated. Similarly, \textit{commedia} characters worked very well as did
+\textit{commedia}-based improvisation.
+
+Initially, we had imagined dramatising traditional Mozambican folk tales in
+parallel or as an alternative to the poems. We rapidly dropped idea as very
+few of the students were volunteering stories of their own (we had given them
+the choice of picking it out of a book we had identified at the school library
+or bringing something someone had told them as children). Furthermore, our
+fears that the students would be resistant to poetry and would strongly prefer
+narrative prose were unfounded. Given the time limitations, we chose to focus
+only on the poetry.
+
+For poetry texts, we first chose Portuguese-language poems from African poets
+that were part of the students' high-school curriculum. We often selected only
+a few stanzas which we asked the students to memorise (or broke the poem into
+two parts, assigning each to a different student). However, the curriculum had
+a very limited set of choices of varying quality. It consists mostly of
+resistance poetry. In particular, there were no love poems, which we found that
+the students appreciated---most of the poems that them brought were love poems.
+
+\chapter{Conclusions}
+
+We taught this class to over 150~students in four different rural Mozambican
+schools. The class evolved as we experimented different ideas and exercises.
+
+We were fortunate that we were able to teach this in the context of existing
+groups of \textit{activistas} involved in theatre and, therefore, some of the
+work served as support to an existing structure.
+
+Knowing the common language of the country was essential. Even the English
+theatre groups were run in Portuguese with only the performances itself being
+in English. When describing an improv which was to be in English, we used
+English to get the group to start thinking in English, but were sometimes
+forced to translate at least some of the words.
+
+On one occasion, the students presented to the school community, a very tough
+audience, who would laugh at a student's mishaps. The students varied in their
+preparedness, given that some had not even attended all of the sessions. We
+gave everyone an opportunity if they felt that they were ready, but we tried to
+give them a longer or shorter time on stage depending to avoid, as much as
+possible, that they would feel embarrassed. We had previously worried that our
+intuitions of what is a good performance would not match what a Mozambican
+audience would enjoy, but we were heartened to find that the audience agreed
+with us as to which of the performances were best.
+
+Poetry was a good source of text material for the work. The students enjoyed it
+and worked hard on it. We had, as an alternative, the idea of dramatising
+traditional folk tales, under the assumption that a narrative text would be
+better; but we never needed to resort to those texts. Poems, being short, are
+easier for students to memorise, and allowed for individual text work, which
+will be useful for any public speaking situation that they might face. It also
+allowed us to sneak in some reviews of rhetorical concepts and, sometimes, our
+sessions resembled Portuguese class.
+
+\end{document}
