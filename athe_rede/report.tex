@@ -1,0 +1,88 @@
+\documentclass[article,twocolumn,twoside]{memoir}
+\usepackage[utf8]{inputenc}
+\usepackage{psfrag}
+\usepackage{hyperref}
+\usepackage{color}
+\usepackage[]{graphicx}
+
+\graphicspath{{../figures/other/}{../figures/generated/}}
+
+
+\title{Theatre for Development: Theatre Classes in Rural Mozambique}
+\author{Rita Reis and Luis Pedro Coelho}
+
+\bibliographystyle{alpha}
+%\bibliographystyle{plain}
+\pagestyle{Ruled}
+
+\aliaspagestyle{chapter}{Ruled}
+\makeatletter
+\if@twoside
+	\makeoddhead{Ruled}{}{}{\scshape\rightmark}
+	\makeevenhead{Ruled}{\scshape\leftmark}{}{}
+	\makeevenfoot{Ruled}{\pagenumberfont\thepage}{}{}
+	\makeoddfoot{Ruled}{}{}{\pagenumberfont\thepage}
+	% Put section number on top
+	\def\sectionmark#1{\markright{#1 (\thesection)}}
+	\def\chaptermark#1{\markboth{#1}{#1}}
+	\renewcommand*{\bibmark}{\markboth{\bibname}{\bibname}} % I don't like empty headings!
+\else
+
+	% Put section number on top
+	\def\sectionmark#1{\markright{#1 (\thesection)}}
+	\def\chaptermark#1{\markright{#1 (\thechapter)}}
+
+	\makeoddhead{Ruled}{}{}{\scshape\rightmark}
+	\makeevenhead{Ruled}{}{}{\scshape\rightmark}
+	\makeevenfoot{Ruled}{}{}{\pagenumberfont\thepage}
+	\makeoddfoot{Ruled}{}{}{\pagenumberfont\thepage}
+	\renewcommand*{\bibmark}{\markright{\bibname}} % I don't like empty headings!
+
+
+\fi
+\makeatother
+
+%Change fonts: Page number sans-serif (much cleaner than the roman version)
+\def\pagenumberfont{\sffamily}
+% Change fonts: Section headers Sans-Serif:
+\setsecheadstyle{\Large\sffamily\raggedright}
+\setsubsecheadstyle{\large\sffamily\raggedright}
+\setsubsubsecheadstyle{\normalsize\sffamily\raggedright}
+
+% Title
+\pretitle{\LARGE\sffamily}
+\posttitle{\par\vspace{4ex}}
+\preauthor{\large\sffamily\hspace{1cm}}
+\postauthor{\par\vspace{3ex}}
+\predate{\small\sffamily\hspace{1cm}Last Updated on: }
+\postdate{\par\vspace{2cm}}
+\copypagestyle{title}{plain}
+\makeoddfoot{title}{}{}{}
+\makeevenfoot{title}{}{}{}
+
+\renewcommand{\abstractnamefont}{\sffamily}
+\renewcommand{\abstracttextfont}{}
+\renewcommand{\absnamepos}{flushleft}
+
+
+\makechapterstyle{mestrado}{% Originally ``AlexanderGrebenkov'', adapted
+\renewcommand{\chapterheadstart}{\goodbreak\vspace*{\beforechapskip}}
+\renewcommand{\chapnamefont}{\normalfont\Large\scshape}
+\renewcommand{\chapnumfont}{\normalfont\Large\scshape}
+\renewcommand{\chaptitlefont}{\normalfont\Large\scshape}
+\renewcommand{\printchaptername}{}
+\renewcommand{\chapternamenum}{}
+\renewcommand{\printchapternum}{\normalfont\Large\scshape\S\thechapter}
+\renewcommand{\afterchapternum}{\hspace{1em}}
+\renewcommand{\afterchaptertitle}{\par\nobreak\vspace{-.9em}\moveright 6pt\vbox to 1pt{\hrule width .32\textwidth}\nobreak\vskip\afterchapskip\nobreak}
+}
+\chapterstyle{mestrado}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\end{abstract}
+
+\end{document}
