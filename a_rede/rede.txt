@@ -305,7 +305,7 @@ Deputado: Olha Bea...
 Bea: Eu já nunca vejo você
 Deputado: Bea, Bea
 Bea: Bea, Bea não.
-Deputado: Olha lá, deixa-te de cíumes. Já não és uma criança. Quando nós namoravamos, uma pessoa podia ter cíume. Mas agora, deixa-te de cíumes. És criança, tu?
+Deputado: Olha lá, deixa-te de cíumes. Já não és uma criança, ok?. Quando nós namoravamos, tudo bem. Uma pessoa podia ter cíume. Mas agora, deixa-te de cíumes. És criança, tu?
 Bea: Ai é? Ai é? Tens a certeza?
 Deputado: Tenho a certeza de quê?
 Bea: Que não tenho de ter cíume?
@@ -314,6 +314,107 @@ Bea: Mas que tipo de mulher é que vai aceitar isso? Você comigo dorme uma vez 
 Deputado: Não é muito?
 Bea: Que tipo de mulher é que vai aceitar isso?
 Deputado: Não é muito?
+Bea: Agora?
+Deputado: Uma vez por mês não é muito?
+Bea: Ai é?
+Deputado: Uma vez por mês, uma vez por mês com a outra que você que e é muito, e resto do tempo estou a trabalhar para o povo.
+Bea: Você devia estar aqui muito tempo porque eu sou a primeira dama!
+Deputado: Ouve lá, Bea. És a primeira-dama em casa.
+Bea: Ai é?
+Deputado: Mas o povo precisa de mim. Eu prefiro trabalhar para o povo. O povo não me provoca estresse.
+Bea: Então qual é o meu povo, também?
+Deputado: Já te respondi... São os teus filhos!
+Bea: Ai é?
+Deputado: Claro.
+Bea: Você é maluco, mesmo. Diz que é deputado, mas é deputado maluco.
+Deputado: Olha, Bea...
+Bea: Falando nisso...
+Deputado: Diga.
+Bea: Diz que é deputado. Quantos anos tem o Luís?
+Deputado: ...
+Bea: Já que você é deputado. Quanto anos tem o teu filho Luís?
+Deputado: Oh Bea. Primeira coisa, você não me devia fazer esse tipo de perguntas.
+Bea: Ai é?
+Deputado: Não sei quantos anos tem o meu filho? É possível um deputado que fica todo o tempo a trabalhar para o povo não saber quantos anos tem o seu filho. [para o público] É possível isso? [Não] Ou eu não sou deputado.
+Bea: Responde logo!
+Deputado: O Luís não faz dezoito anos este mês.
+Bea: 'Tá a ver? Tá a ver? Quando eu te digo que você é um deputado maluco, você é um deputado maluco mesmo! O Luís faz dezoito anos no próximo ano...
+Deputado: O quê?
+Bea: Ah, pois.
+Deputado: Estava a confundir... com a idade do Casula.
+Bea: Então confunde a idade do filho e do empregado. É um deputado maluco.
+Deputado: Olha, Bea, espera.
+Bea: Espera, não.
+Deputado: Olha, Bea, o Casula é quase um filho. Por isso, confundo a idade dele com a do Luís.
+Bea: Ah é por isso, diz que trabalha para o povo quando que trabalhar para o povo...
+Deputado [interrompendo]: Oh! Problemas. Eu vim descansar, eu vim aqui para relaxar.
+Bea: Aqui você não vai descansar hoje.
+Deputado: Posso sair, tenho uns negócios esta noita.
+Bea: Mas, primeiro, preciso de dinheiro.
+Deputado: Dinheiro?
+Bea: Sim.
+Deputado: Dinheiro de quê?
+Bea: Para pagar o colégio das crianças.
+Deputado: Olha, Bea, o teu cartão já acabou?
+Bea: Claro. Acabei de gastar em despezas de casa.
+Deputado: Mas como assim? Gastas todo o dinheiro que eu deixo contigo com despezas de casa só?
+Bea: Eu tenho de cuidar da minha beleza.
+Deputado: Ai é?
+Bea: Sim.
+Deputado: Ok. Agora posso ir?
+Bea: Dinheiro! Antes quero dinheiro.
+Deputado: Dinheiro, estava-me a esquecer.
+Bea: Depois diz que é deputado. Deputado anda avariado.
+Deputado: Aqui. Mas quando fores a perguntar, o povo diz que realmente o deputado trabalha.
+Bea: Ai é?
+Deputado: Claro.
+Bea: Então deixa-te disso que eu preciso de dinheiro.
+Deputado: Sabe onde fica o meu segundo cartão.
+Bea: Sei muito bem.
+Deputado: Sabes?
+Bea: Sei.
+Deputado: Ok. Podes pegar, podes gastar.
+Bea: Ai é?
+Deputado: Já posso ir?
+Bea: À vontade.
+Deputado: É só isso?
+Bea: Era só isso. Passe bem.
+Deputado: Obrigado.
+Bea: Já podes ir agora.
+Deputado: Estou a ir.
+Bea: Vai. Vai! Xi qual é o problema.
+Deputado: Já vou.
+Bea: Posso trancar a porta?
+Deputado: Mas eu vou voltar no fim do mês.
+Bea: Mas você uma vez por mês. Eu tenho de trancar a porta quando você fica lá na casa da sua segunda esposa.
+Deputado: Olha Bea...
+Bea: Olha Bea, o quê?
+Deputado: Você vai ficar aqui dentro trancada.
+Bea: Claro. Primeira-dama tem que ficar aqui trancada.
+Deputado: Não é possível, uma pessoa se trancar dentro de casa.
+Bea: Sim.
+Deputado: Estou a aprender isso contigo, pá.
+Bea: Então, ciau.
+Deputado: Mudaste muito.
+Bea: Não mudei. Adeus, passe bem.
+Deputado: Ok, obrigado.
+Bea: Cumprimentos lá onde você vai.
+Deputado:
+Bea: Diz que é deputado...
+Deputado: Ciau,
+Bea: Ciau.
+Deputado: Ciau,
+Bea: Ok, ciau.
+Deputado: Ciau.
+
+[Deputado sai]
 
 
+[Bea pega no telefone]: Allô? Podes subir, já saiu. ... 'Tá bom. Até já.
+
+Cena Sexta
+----------
+[1597s]
+
+Entra Tino.
 
