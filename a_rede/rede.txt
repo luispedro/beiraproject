@@ -557,4 +557,83 @@ Cena Nona
 
 (No bar)
 
+Comerciante: Xi! Vens agora com muita energia! Vens a transpirar.
+Professor: Estás maluco!
+Comerciante: Este miúdo! Ultimamente, este miúdo....
+Professor: <...>
+Comerciante: Ia, desta vez, acho eu, sofreu mais uma vítima.
+(professor ri-se)
+Comerciante: O senhor professor aqui está a fazer <um bom semestre.>
+Professor: Só fiz o meu trabalho, como professor de matemática. Agora, Tito, estão a falar de quê?
+Comerciante: Eu não estou a entender nada. Um gajo sempre tem de esperar, no nosso bar aí, para apanhar uma bebedeira.
+Professor: Sabe aquela aluna, aquela que eu te dizia...
+Comerciante: Ohhh
+Professor: <Pouca gente é esposa>
+Comerciante: Haha
+Professor: Tito. Tito. (rindo-se) até me trouxe apreço (rindo-se) até me trouxe apreço pela dedicação dela.
+Comerciante: Ai é?
+Professor: Ia.
+Comerciante: Agora ela já dedicada!
 
+(Entra Dino)
+
+Dino: Boa noite, professor.
+Professor: Boa noite.
+Dino: Olha, professor, quero falar contigo.
+Professor: Aqui no bar não podemos falar.
+Dino: Então vamos arranjar um sítio para podermos conversar.
+(professor ri-se)
+Dino: Vamos arranjar um sítio para podermos conversar, professor!
+Professor: Mas o que é que tu queres?
+Dino: Quero falar contigo! Posso falar?
+Professor: Aqui não, mas vamos arranjar um sítio para falarmos
+(saiem)
+Dino: Professor, que estória é essa de você andar com a minha namorada?
+Professor: An?
+Dino: Que estória é essa de você andar com a minha namorada?!
+Professor: Qual é essa?
+Dino: A Joana! Tua aluna!
+Professor: Estás a falar português?
+Dino: A Joana, tua aluna!
+Professor: A minha aluna, an?
+Dino: 'Tá bom. A Joana...
+Professor: A Joana é somente minha... aluna.
+Dino: Não. Professor, vamos conversar deste assunto. Vamos falar com sinceridade, não vamos abusar. Você anda com a Joana, ou não?
+Professor: ...
+Dino: Você anda com a Joana, ou não, sr professor? E é o meu primeiro caso. O sr. professor já teve um caso com aquela filha daquela doutora lá da escola, an? Você andou com a filha dela. Agora, a Joana é a minha namorada.
+Professor: Mas ela não foi reclamando, não fiz eu um xuto.
+Dino: mas a presença dela vo<...> e o sr. professor anda com alunas da turma!
+Professor: Jovem! Devias vir para aqui, agradecer.
+Dino: Agradecer o quê? Agradecer, o quê? Agradecer o sr professor andar com a minha namorada?
+Professor: Me tiraste do bar, eu a beber a minha cerveja, em vez de: sr. professor, posso falar contigo um segundinho, obrigado, pá, a minha namorada já transitou, an?
+Dino: Oh sr professor, ela transitou porque sabe! Ela <esforça-se> a estudar!
+Professor: An?
+Dino: Vai transitar porque sabe.
+<...>
+Professor: Escuta aqui, me escuta que eu estou a falar contigo, an?
+Dino: ...
+Professor: O que é que já fizeste pela Joana?
+Dino: O que já fiz como o quê? <...>
+Professor: O que é que você já fez pela vida dela?
+Dino: O meu amor. O meu amor por ela.
+Professor: 'Tá bem. (rindo-se) Eu também já amei.
+Dino: 'Tá bom, você já amou. E agora que eu amo? Vai resolver como?
+Professor: Devias ficar muito feliz, pelo que eu fiz pela Joana. Se soubesses, a tua namorada, é muito dedicada.
+Dino: Ah, que bom.
+Professor: Muito bem dedicada. E eu descobri hoje mesmo.
+Dino: É dedicada? É dedicada? Hoje você tirou a prova que ela é dedicada. E é muito dedicada? Agora, sr professor, vou-lhe dizer
+Professor: An?
+Dino: Um dia neste mundo haverá justiça. Hoje, é o senhor professor que está a andar com a minha namorada. Amanhã talvez serei eu andando com a sua mulher. <...> Eu a dar-lhe o cotovelo. Mas diga lá, primeiro foi o polícia a me dar o cotovelo, agora o professor. É assim que eu vou viver?
+Professor: Polícia e professor são muito diferentes.
+Dino: Mas é abusar da sua profissão para andar com a mulher dos outros! Você aproveita-se da sua categoria como professor para andar com alunas. É como o polícia andar com cidadãs.
+Professor: Já que queres fazer justiça, né?
+Dino: Eu vou fazer justiça, sr professor.
+Professor: 'Tá bom.
+Dino: Então espera por mim.
+Professor: Epá, estarei à espera.
+Dino: Hoje sou estudante, amanhã serei um trabalhador.
+Professor: (Ri-se)
+<...>
+
+(Dino sai)
+[41m25]
