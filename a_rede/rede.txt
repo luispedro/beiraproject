@@ -635,5 +635,35 @@ Dino: Hoje sou estudante, amanhã serei um trabalhador.
 Professor: (Ri-se)
 <...>
 
-(Dino sai)
+(Dino sai. Professor volta ao bar)
 [41m25]
+
+Comerciante: Estavas quase a levar cabeçada. Eu te disse, mano, professor é professor lá na escola.
+Professor: Você sabe como é.
+Comerciante (para o bar): Epá, dá lá uma cerveja!
+
+(Pedro serve cervejas)
+
+Comerciante: Sabe o quê? Eu vou-te dizer uma coisa. Eu ultimamente, estou muito chateado com aquele meu trabalhador.
+Professor: Qual?
+Comerciante: Aquele meu trabalhador que trabalha na minha fábrica... Me vendeu uma vaca inteira!
+Professor: Iai!
+Pedro (rindo-se): Você não paga depois acontece isto!
+Comerciante (irritado): Você também! Nem para macaco dava. <...>
+Professor (rindo-se): Até este aqui sabe que você não paga!
+Comerciante: Não, eu não sou <assim>! Eu pago aos meus trabalhadores!
+<...>
+Comerciante: Este camionista anda a dar-nos poeira! Este camionista, quando chega a casa da D. Rosa, sempre há confusão!
+Professor: Qual, o sr. Magaia?
+Comerciante: Eu não sei se é o sr. Magaia.
+Professor: É o sr. Magaia!
+<...>
+Professor: Vamos ver.
+Comerciante: Vamos ver lá
+Professor: Mais uma cerveja.
+
+Cena Décima
+-----------
+[42m52]
+
+
