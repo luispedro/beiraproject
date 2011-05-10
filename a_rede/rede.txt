@@ -742,10 +742,10 @@ D. Rosa: Não tem dinheiro para me dar para encher a barraca. Mas, pelo menos, n
 [46m00]
 Sr. Magaia: Começou... Começou...
 D. Rosa: Xi! Começou o quê?!
-Sr. Magaia: Eu 'tou a dizer... 'tou-te a dizer...
+Sr. Magaia: Eu 'tou a dizer... 'Tou a dizer agora... 'tou-te a dizer...
 D. Rosa: Está cansado?
 Sr. Magaia: Estou cansado.
-D. Rosa: Não passa uns cinco minutos para me dar também uns carinhos? Cinco minutos, só.
+D. Rosa: Está cansado? Não passa uns cinco minutos para me dar também uns carinhos? Cinco minutos, só.
 Sr. Magaia: Desculpa lá, vamo-nos entender.
 D. Rosa: Vamo-nos entender o quê? Você não está com saudades da sua mulher?
 Sr. Magaia: Ouve lá, escuta. Tu não deixas eu dizer nem uma palavra.
@@ -756,4 +756,16 @@ D. Rosa: E você não tem cinco minutos.
 Sr. Magaia: Eu só vim aqui para me mudar e sair de novo.
 D. Rosa: Xi.
 Sr. Magaia: Não há maneira.
-D. Rosa: Não há
+D. Rosa: 'Tá bom. Pode ir, então.
+<...>
+D. Rosa: Boa viagem!
+Sr. Magaia: Não pode ser assim, pára lá.
+D. Rosa: Você quer mais alguma coisa? Boa viagem!
+Sr. Magaia: Ok.
+D. Rosa: Ciau.
+Sr. Magaia: Ciau.
+
+(Sai Magaia. D. Rosa fica)
+
+D. Rosa: Em vez de me dar dinheiro, nada. Não vê que esta barraca está vazia. Eu a pensar "o meu marido está a vir, há de me ajudar." Chega aqui, não me deixa nada.
+
