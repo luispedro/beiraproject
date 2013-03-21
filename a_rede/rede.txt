@@ -848,11 +848,14 @@ D. Rosa: Podes ir. Podes ir!
 D. Rosa: Puxa! Isso é abusar.
 Comerciante: Eu vou tomar uma cerveja.
 D. Rosa: 'Tá bom, pode ir, pode ir. Pode não voltar mais.
+Comerciante: Vou no outro bar
+D. Rosa: 'Tá bom.
 
 (Comerciante sai, vai para o bar)
 
 D. Rosa: Sai de casa dele, vem-me acusar.
 <...>
+(para o público): Vocês também não estão bons.
 
 (No bar)
 
@@ -861,4 +864,44 @@ Comerciante: Olha, eu, a D. Rosa, hei de conseguir, não vou desistir. Hei de vo
 Cena Décima-Segunda
 -------------------
 [50m45]
+
+Black out.
+
+Quando volta a luz, o comerciante está de pé, defronte da D. Rosa.
+
+Comerciante: Com licensa, D. Rosa.
+D. Rosa: ... Xi! Há quanto tempo? Dois meses?
+Comerciante: Nada... Queria ver a D. Rosa como é que está?
+D. Rosa: Senta um pouco.
+Comerciante: Desta vez, fui contar as cabeças de gado. São 43. Desta vez, epá,
+só tive um problema, ...
+D. Rosa: Eu gosto muito de ti, aí.
+Comerciante: Para mim, é um prazer ouvir isso!
+D. Rosa: 'Tá a ver aquela proposta que você me fez?
+Comerciante: Aquela, daquela vez?
+D. Rosa: Aquela! Aquela aí.
+Comerciante: D. Rosa, daquela vez... Vamos conversar de novo.
+D. Rosa: Eu pensei muito naquela proposta.
+Comerciante: Para mim, não é problema, D. Rosa!
+D. Rosa: Para mim, também não é problema.
+Comerciante: Eu não acredito.
+D. Rosa: Não duvida da minha palavra.
+Comerciante: <..>
+D. Rosa: Muita alegria me faz esse dinheiro
+Comerciante (aproximando-se da D. Rosa): Não preciso mais de incluir isso aí. <?>
+D. Rosa: Agora? Podemos ir agora? Eu estou precisando
+Comerciante: Para mim, não é problema.
+D. Rosa começa a sair
+Comerciante: Agora, não fecha... Não fecha a barraca?
+D. Rosa: Mas tem o quê? Dá para roubar o quê?
+Comerciante: Mas e?, temos um quartinho?
+D. Rosa: Ali tem. Podemos ir... podemos ir.
+
+Saiem. Black-out.
+
+Comerciante: Rosa!
+
+Cena Décima-Terceira
+--------------------
+[52h25]
 
