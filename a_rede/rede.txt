@@ -920,7 +920,7 @@ D. Rosa: Mas você não sabia que eu sou casada? Você não sabia que eu sou cas
 Comerciante: Eu não sabia, D. Rosa!
 D. Rosa: Sou com o camionista, o Sr. Magaia, você não conhece o Sr. Magaia? Quem não conhece o Sr. Magaia?
 Comerciante: Epá! Onde eu tinha a cabeça?
-D. Rosa: Então.
+D. Rosa: Então, em cima dos ombros.
 Comerciante: D. Rosa, não pode me perder respeito assim... Eu não acredito. Você é mulher de um camionista!
 D. Rosa: Mas qual é o problema?, eu sou mulher do camionista.
 Comerciante: Não estás a ver qual é o risco que eu estou a correr?
@@ -936,7 +936,23 @@ D. Rosa: O quê?
 Comerciante: Obrigaste-me a não usar Jeito [marca de preservativos, palavra usada como expressão genérica para "preservativo"]!
 D. Rosa: Puxa! Eu não obriguei a nada! Combinamos. Isso não foi um combino? Agora está a querer...
 Comerciante: Mas, oh D. Rosa, na hora quando o pau já está...
-D. Rosa: Oh, eu quero o meu dinheiro.
+D. Rosa: Oh, eu quero o meu dinheiro. Não quero saber de nada, quero o meu dinheiro.
+Comerciante: Oh, D. Rosa, vamos lá a ver agora: Não pago seu dinheiro.
+D. Rosa: Eu quero o meu dinheiro!
+<gritos>
+Comerciante: Além do mais, eu esqueci uma coisa.
+D. Rosa: É o quê?
+Comerciante: A senhora é muito parada na cama.
+D. Rosa: Ai é?
+Comerciante: Não ajuda. Não anima.
+D. Rosa: Ai é?! Você não anima.
+Comerciante: A senhora não anima!
 
+Comerciante sai de cena, ainda gritando contra D. Rosa "Você não anima" e gesticulando. D. Rosa responde-lhe e saiem os dois de cena.
 
+Cena Décima-Quarta
+------------------
+[55m15]
+
+Comerciante voltou ao bar.
 
