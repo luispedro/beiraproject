@@ -954,5 +954,18 @@ Cena Décima-Quarta
 ------------------
 [55m15]
 
-Comerciante voltou ao bar.
+Comerciante voltou ao bar. O Professor ainda lá está à espera com Pedro.
+
+Comerciante (para Pedro): Estás a rir de quê? Dá lá uma cerveja!
+...
+Dá lá a cerveja.
+Comerciante: Isso de uma pessoa andar com bonita escolha, acaba por andar no matope sem saber como. Sabe porquê? Sabe porquê? Sabe aquela senhora que eu disse que estava no terreno, a D. Rosa?
+Professor: Aquela, da barraca aí?
+Comerciante: Eu não sabia <que era mulher de camionista>.
+Professor: Não sabia?
+Comerciante: Epá, você não me falou nada!
+Professor: Como podia falar naquele momento de alegria que eu estava sentido.
+Comerciante: Epá, é que: olha lá, eu andando com a D. Rosa sem usar o jeito... está a imaginar? Sem pôr preservativo!
+Professor: Mas isso não é problema
+[56m15]
 
