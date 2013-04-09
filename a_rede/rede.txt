@@ -995,6 +995,11 @@ Comerciante: Estás a ver? Há uma ligação, olha lá: a aluna tem aquele namor
 Professor: Se fôr par apanhar alguma coisa perigosa, serás o primeiro.
 Comerciante: Não será porque nós todos estamos na mesma, todos estamos. Olha lá, como é que vamos resolver este?
 Professor: Só há uma maneira. Só uma maneira.
-Comerciante: Qual é essa maneira, estás ver outra maneira? Olha lá, Tino, você é professor de matemática, você está a ver outra maneira?
-[58m50]
+Comerciante: Qual é essa maneira, estás ver outra maneira? Mas, olha lá, Tino, você é professor de matemática, você está a ver outra maneira?
+Professor: Epá, eu não sou professor de matemática, por isso as minhas contas... <?> Digamos, podemos fazer o teste, aí.
+Comerciante: Iá, iá, o teste, né? Iá, é verdade! Bora, é o que eu tinha pensado. Iá, o teste, podemos ir fazer. Iá, epá, um gajo pode ir ver <?>
+Professor: Para ficar mais calmo, podemos ir os dois.
+Comerciante: Mas, olha aí, já é de noite, a essa hora está fechado, pá.
+Tino: A essa hora, não dá, só amanhã de manhã.
+[59m12]
 
