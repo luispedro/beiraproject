@@ -1016,5 +1016,20 @@ Cena Décima-Quinta
 ------------------
 [59m40]
 
-Prostituta: Quando é essa hora, ninguém aparece.
+A prostituta entra em cena, fala ao público.
 
+Prostituta: Quando é essa hora, ninguém aparece. Vou na minha casa, tenho dinheiro, na rua não pode ser. Vê se tem dinheiro, 'tou pronta!
+
+Entra o deputado.
+
+Deputado: Guidinha... guidinha.
+Prostituta: Oh, xiçå!
+Deputado: Estás mais gorda!
+<?>
+Deputado: Claro, claro. O que está na cara? Maquilhagem?
+Prostituta: Sinceramente. Você não vê o que está perdendo, não é isso?
+<?>
+Deputado: Eu vim para outra coisa. Eu vim relaxar.
+Prostituta: Veio relaxar?
+Deputado: Exacto.
+[60m30]
