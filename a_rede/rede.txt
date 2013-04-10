@@ -997,9 +997,24 @@ Comerciante: Não será porque nós todos estamos na mesma, todos estamos. Olha 
 Professor: Só há uma maneira. Só uma maneira.
 Comerciante: Qual é essa maneira, estás ver outra maneira? Mas, olha lá, Tino, você é professor de matemática, você está a ver outra maneira?
 Professor: Epá, eu não sou professor de matemática, por isso as minhas contas... <?> Digamos, podemos fazer o teste, aí.
-Comerciante: Iá, iá, o teste, né? Iá, é verdade! Bora, é o que eu tinha pensado. Iá, o teste, podemos ir fazer. Iá, epá, um gajo pode ir ver <?>
-Professor: Para ficar mais calmo, podemos ir os dois.
+Comerciante: Iá, iá, o teste, né? Iá, é verdade! Bora, é o que eu tinha pensado. Iá, teste, podemos ir fazer. Iá, epá, um gajo pode ir ver <?>
+Tino: A cabeça ficar mais calma, vamos nós os dois.
 Comerciante: Mas, olha aí, já é de noite, a essa hora está fechado, pá.
-Tino: A essa hora, não dá, só amanhã de manhã.
-[59m12]
+Tino: A essa hora, não dá, só amanhã de manhã. Mas podemos fazer pé de minha casa.
+Comerciante: Mas tenho de passar na sua casa? Epá, eu prefiro chegar tarde no serviço, mas quando chegar, já fui lá.  Mas olha aí, vamos beber mais uma cerveja. Estávas a dizer que eu não te pago? Anda lá
+Tino: Beber com o dinheiro de você é uma felicidade.
+
+Os bêbados voltam para o bar e vão reduzindo o volume da conversa. A prostituta entra
+
+Comerciante: Dá lá uma cerveja, cerveja
+Pedro: Eu estou a dizer: quando o meu patrão ficar a saber.
+Comerciante: Xi!
+..
+
+
+Cena Décima-Quinta
+------------------
+[59m40]
+
+Prostituta: Quando é essa hora, ninguém aparece.
 
