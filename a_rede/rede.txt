@@ -1024,12 +1024,30 @@ Entra o deputado.
 
 Deputado: Guidinha... guidinha.
 Prostituta: Oh, xiçå!
-Deputado: Estás mais gorda!
+Deputado: Estás mais gorda! ... Como é?
 <?>
 Deputado: Claro, claro. O que está na cara? Maquilhagem?
 Prostituta: Sinceramente. Você não vê o que está perdendo, não é isso?
 <?>
-Deputado: Eu vim para outra coisa. Eu vim relaxar.
+Deputado: Eu vim para outra coisa. Eu vim relaxar, sabe?
 Prostituta: Veio relaxar?
 Deputado: Exacto.
-[60m30]
+Prostituta: Aí, relaxar não há problema. O que manda... dinheiro!
+Deputado: Estás-me a dizer a mim que o que manda é dinheiro?
+Prostituta: Claro
+Deputado: Não sabes que tenho dinheiro? Um deputado. É possível um deputado não ter dinheiro? Ah? O povo conta em mim, porquê? Porque eu sou quem tem dinheiro.
+Prostituta: Ok, senhor Deputado. Quer relaxar? Está nice.
+Deputado: Ok. Mas eu vou pedir é uma coisa: o preço é o mesmo?
+Prostituta: Nãooo, deputado, não. Já mudei. 
+Deputado: Ahn?
+Prostituta: Já mudei o preço.
+Deputado: Mas como? Mudaste de repente? Agora que sou deputado já é outro preço?
+Prostituta: Eu não falei que eu mudei porque é deputado. Quem aparece, para mim, é outro preço. Agora, estou a cobrar mil.
+Deputado: Xi! Mas aumentou? Aumentaste quanto? Aumentaste 100%? Quer dizer de 500 para mil?
+Prostituta: Mas você quer discutir o meu dinheiro que eu faço aqui ou relaxar?
+Deputado: Olha, eu me preocupo com esse tipo de aumento. Eu sou deputado, eu trabalho para o povo. Mesmo quando aumenta o pão, aumenta 5 a 10%, não aumenta de 5 passa a 500!
+Prostituta: Ai é?
+Deputado: Eu debati isso na Assembleia!
+Prostituta: Ai é?
+Deputado: 
+[62m00]
