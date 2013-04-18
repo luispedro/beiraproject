@@ -1077,8 +1077,25 @@ Deputado: Então podemos?
 Prostituta: Sim.
 Deputado: Não há problema, eu hei de pagar mil, posso usar, não há problema.
 Prostituta: Com preservativo?
-Deputado: Que fazer, se sem preservativo, eu já sei que não hei de relaxar.
+Deputado: Que fazer, se sem preservativo, eu sei que não hei de relaxar.
 
-Saiem os dois. Black-out.
+Saiem os dois. Black-out. Quando voltam as luzes, ambos arrumam a roupa.
 
-[65m15]
+Prostituta: Já está relaxado.
+Deputado: Melhorou muito, Guidinha.
+Prostituta: Você não está com a sua esposa lá em casa. Acha que é brincadeira, aqui?
+Deputado: Guidinha, ai, você tem de saber que 'tá a falar com um deputado. O que aconteceu, ai!, acabou. Agora vais falar da minha esposa aqui? Acabou, eu já paguei, 'tá tudo pronto.
+Prostituta: Tá.
+Deputado: Posso ir?
+Prostituta: Podes ir embora
+Deputado: Ok. Obrigado, pelo relaxamento.
+Prostituta: Eu é que agradeço, deputado, ciau.
+Deputado: Ciau, ciau, até à próxima.
+Prostituta: Ciau.
+
+O Deputado sai, entra o polícia.
+
+Polícia (para o público): Você! Cuidado você! Oh, vou-te pegar!
+Polícia: Senhor deputado. Ah, senhor deputado
+
+[66m00]
