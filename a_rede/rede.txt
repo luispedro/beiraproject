@@ -1093,9 +1093,37 @@ Prostituta: Eu é que agradeço, deputado, ciau.
 Deputado: Ciau, ciau, até à próxima.
 Prostituta: Ciau.
 
-O Deputado sai, entra o polícia.
+
+Cena Décima-Sexta
+-----------------
+
+O Deputado sai, entra o polícia. Encontram-se.
 
 Polícia (para o público): Você! Cuidado você! Oh, vou-te pegar!
-Polícia: Senhor deputado. Ah, senhor deputado
+Polícia: Senhor deputado. Ah, senhor deputado. Ah, senhor deputado.
+Deputado: Boa noite.
+Polícia: Boa noite.
+Deputado: Trabalhando?
+Polícia: Epá, segurança...
+Deputado: Isso é muito importante. (pausa) Não bebeu?
+Polícia: Senhor deputado! Ii. Beber? Eu? Estava doente à dias, a comprimidos.
+Deputado: Tem de esperar?
+Polícia: É verdade.
+Deputado: Ok, bom trabalho. Estava só a visitar uma família dali.
+Polícia: É bom. Deputado, eu costumo ver televisão todos os dias, deputado, é bom. Você, acho que chegou ontem, você?
+Deputado: É.
+Polícia: Deputado, 'tou a gostar da discussão do salário mínimo.
+Deputado: É importantíssimo, para o povo, mesmo.
+Polícia: É. 'tamos a ganhar mal, a sofrer.
+Deputado: É. Eu vou trabalhar.
+Polícia: 'Tá bom, deputado.
+Deputado: Ciau.
+Polícia: Ia, deputado.
+Deputado: Ciau, ciau, bom trabalho.
+Polícia: Obrigado, senhor deputado.
 
-[66m00]
+Deputado sai.
+
+Polícia: Deputado, trabalha. É assim. Trabalha, muito.
+
+[67m00]
