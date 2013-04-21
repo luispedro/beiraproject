@@ -1124,6 +1124,27 @@ Polícia: Obrigado, senhor deputado.
 
 Deputado sai.
 
-Polícia: Deputado, trabalha. É assim. Trabalha, muito.
+Polícia: Deputado, trabalha. O deputado é assim: trabalha, muito.
 
-[67m00]
+Cena Décima-Sétima
+------------------
+
+O polícia encontra a prostituta
+
+Polícia: Olá!
+Prostituta: Oi, senhor chefe.
+Polícia: Mamã, como está?
+Prostituta: 'Tá tudo bem, senhor chefe.
+Polícia: É verdade. É...
+Prostituta: O que o trás aqui, senhor chefe.
+Polícia: É que há gatuno, aqui, mamã!
+Prostituta: Gatuno? Senhor chefe, fala que eu sou gatuna?
+Polícia: Não, não mamã, eu não disse gatuna, eu disse gatuno.
+Prostituta: Gatuno?
+Polícia: É, mamã. Eu vou falar gatuna para você? Para quê? Mamã.
+Prostituta: O senhor chefe, hoje, você vai trabalhar aqui?
+Polícia: 'Tou a trabalhar. Se eu não trabalhar, há muito assaltante. O que a senhora fez durante o dia, vai perder aqui. Eu tenho que estar aqui, é verdade. 
+Prostituta: Senhor chefe, enquanto você está aqui, ninguém aparece.
+Polícia: Oh? Mamã, onde está Luís?
+
+[68m00]
