@@ -1166,5 +1166,48 @@ Prostituta: Tem, eu estou a trabalhar para ...
 Polícia: Eu disse não tem, não tem, mamã; eu disse não tem! 'Tá a ouvir!? Você pensa o quê? Eu 'tou a sofrer, passar noite, passar dia a pegar gatuno, gatunas, bandidos, com arma... <?> Tudo isso, 'tou a trabalhar <?> E você quer dinheiro! Com o chefe?  Eu outra vez, numa zona passei, cão ladrou, ão-ão-ão-ão. Ele o cão, o dono na casa dele; o cão sempre agradou ao dono, e você, mamã, vai ter de agradar ao chefe aqui. Já estou a gemer. Pensa o quê, você?
 Prostituta: 'Tá bom, senhor chefe, aceito.
 Polícia: É bom aceitar porque eu ia-vos expulsar todas desta zona aqui. Vocês todas, da noite, devia trabalhar, passarinhas nocturnas.
+Prostituta: Até quer vir senhor chefe, não é?
+Polícia: <?> Agora vamos, mamã.
+Prostituta: Eu vou, com preservativo, senhor chefe.
+Polícia: Xa. Mamã, você está  ver, você!?
+Prostituta: Estou a ver, sim,
+Polícia: Você está ver eu aqui <?> que vou com você. Ainda quer o quê?
+Prostituta: Preservativo!
+Polícia: Nhama... com nhama....
+Prostituta: Aqui, nhama com nhama não existe. Não sem preservativo.
+Polícia: Mas mamã, você não está a ajudar o chefe.
+Prostituta: Chefe pediu ajuda
+Polícia: Está a dificultar, mamã, facilita a chefe.
+Prostituta: Quer ajuda ou não?
+Polícia: 'Tá bom, mamã.
+Prostituta: Chefe?
+Polícia: Já aceitei. Podemos ir? Você assim está a ajudar o chefe. Não tem problema, mamã, agora vamos lá aqui dar uma rapidinha então!
+Prostituta: Chefe?
+Polícia: Vamos para onde? Não tem dinheiro chefe para pagar!
+Prostituta: Aqui não, senhor chefe.
+Polícia: Agora, como vai ser?
+Prostituta: Vamos.
+Polícia: Vamos? Confio, mamã! Vamos, mamã. Posso andar consigo, né? O chefe aqui, se não passar hoje, tenho medo
+Prostituta: Vamos, senhor chefe
 
-[71m00]
+Prostituta sai
+
+Polícia (para o público): Sabem? É muito bom trabalhar à noite. Você encontra até coisas gratuítas! Um dia que eu fôr ali na sentinela, ali, é só ficar, ali. Mosquito mordeu? Eu não posso nem matar, é só ficar! Onde está, mamã?
+
+Polícia sai atrás da prostituta.
+
+Cena Décima-Oitava
+------------------
+[73m00]
+
+Na discoteca, com música alta, de forma gestual, dá-se uma negociação entre o
+camionista e a prostituta. A prostituta exige o preservativo mesmo contra
+ofertas repetidas do camionista de lhe pagar mais. Finalmente, este aceita,
+resignado.
+
+Saiem os dois e voltam com o grupo para uma representação do encontro sexual .
+
+Ao contrário do encontro sexual entre Tino e Bea, a prostituta não é infectada.
+
+[FIM]
+
